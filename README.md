@@ -1,4 +1,5 @@
-# Personal Web Page
-I am Choon Leng from Singapore.
+# Choon Leng's Personal Web Page
+title: Choon Leng's Homepage
+description: I am Choon Leng from Singapore.
 During my free time, I fix/upgrade computers for a nominal fee.
 No fees, no transport charges if your PC is not fixed/upgraded.

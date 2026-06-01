@@ -5,4 +5,4 @@ No fees, no transport charges if your PC is not fixed/upgraded.\
 Examples of PC fixes:\
 Reinstall Windows, reinstall software, replace faulty hard disk, faulty memory, faulty LCD, faulty fan.\
 Examples of PC upgrades:\
-Upgrade hard disk, memory.
+Upgrade hard disk, memory, Desktop casing.
